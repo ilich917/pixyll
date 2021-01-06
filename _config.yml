@@ -3,8 +3,8 @@ title:       Deep Learning
 email:       jorge.perez.rojas@gmail.com
 author:      Jorge Pérez - Fernando Fuentes
 description: "Página oficial del curso Deep Learning del profesor Jorge Pérez"
-baseurl:     ""
-url:         "http://www.deeplearning.cl"
+baseurl:     "/pixyll"
+url:         "https://github.com/ilich917"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
