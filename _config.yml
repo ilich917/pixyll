@@ -1,10 +1,10 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Deep Learning
+email:       jorge.perez.rojas@gmail.com
+author:      Jorge Pérez - Fernando Fuentes
+description: "Página oficial del curso Deep Learning del profesor Jorge Pérez"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://www.deeplearning.cl"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
@@ -79,8 +79,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Newer'
-    older: 'Older'
+    newer: 'Más nuevo'
+    older: 'Más viejo'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
