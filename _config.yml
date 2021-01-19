@@ -111,7 +111,9 @@ text:
   og_locale: 'en_US'
 
 # Build settings
-markdown:     kramdown
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
 redcarpet:
   extensions: ['smart', 'tables', 'with_toc_data']
 permalink:    pretty
