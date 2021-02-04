@@ -79,8 +79,8 @@ share_hackernews: false
 
 text:
   pagination:
-    newer: 'Más nuevo'
-    older: 'Más viejo'
+    newer: 'Early Posts'
+    older: 'Deep Posts'
   share_buttons:
     text:         'Share this post!'
     facebook:     'Share on Facebook'
@@ -97,7 +97,7 @@ text:
     minute_read:    'minute read'
     related_posts:  'Related Posts'
   index:
-    coming_soon: 'Coming soon...'
+    coming_soon: 'Algo se rompió :('
   contact:
     email:    'Email Address'
     content:  'What would you like to say?'
