@@ -13,28 +13,28 @@ youtubeId6:  y6aD4WG-rOw
 ---
 
 #### Clase 4: Descenso de Gradiente para encontrar los parámetros de una red
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 
 #### Clase 5: Introducción a Backpropagation
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 #### Clase 6: Continuación Backpropagation
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId3 %}
 
 #### Clase 7: Tensores, Notación de Einstein, y Regla de la Cadena Tensorial
-Dificultad: Qué clase de chino mandarín es este?
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::hatching_chick::hatching_chick:
 {% include youtubePlayer.html id=page.youtubeId4 %}
 
 #### Clase 8: Entropía Cruzada y Backpropagation a mano con Tensores
-Dificultad: Cuándo es la ayudantía?
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::hatching_chick::egg:
 {% include youtubePlayer.html id=page.youtubeId5 %}
 
 #### Clase 9: Red FF a mano en pytorch (y la versión estilo pytorch)
-Dificultad: Cuándo es la ayudantía?
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::hatching_chick::egg:
 {% include youtubePlayer.html id=page.youtubeId6 %}
 
 #### Tarea 2 

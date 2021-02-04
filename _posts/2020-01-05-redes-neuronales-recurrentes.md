@@ -11,20 +11,20 @@ youtubeId4:  cDT9oYyXgjo
 ---
 
 #### Clase 18: Introducción a Redes Neuronales Recurrentes
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 
 #### Clase 19: Arquitecturas de Redes Neuronales Recurrentes
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 #### Clase 20: Auto-regresión, Language Modelling, y Arquitecturas Seq-to-Seq
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId3 %}
 
 #### Clase 21: RNNs con Compuertas y Celdas de Memoria: GRU y LSTM
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::hatching_chick::egg:
 {% include youtubePlayer.html id=page.youtubeId4 %}
 
 

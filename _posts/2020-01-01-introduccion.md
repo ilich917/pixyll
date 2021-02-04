@@ -10,16 +10,16 @@ youtubeId3:  eV-N1ozcZrk
 ---
 
 #### Clase 1: Introducción, IA vs ML vs DL, ¿Por qué DL ahora?
-Dificultad: Izipizi
+Dificultad: :hatching_chick::egg::egg::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 
 #### Clase 2: Perceptrón, funciones de activación, y representación matricial
-Dificultad: Normal, traigan al siguiente 
+Dificultad: :hatching_chick::hatching_chick::egg::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 #### Clase 3: UAT, Redes Feed-Forward, y función de salida (softmax)
-Dificultad: Normal, traigan al siguiente
+Dificultad: :hatching_chick::hatching_chick::egg::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId3 %}
 
 #### Tarea 1 

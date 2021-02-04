@@ -11,20 +11,20 @@ youtubeId4:  FBsiDndtdVg
 ---
 
 #### Clase 10: Generalización, Test-Dev-Train set, e Intro. a Regularización
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 
 #### Clase 11: Ensemble, Dropout, y Desvanecimiento de Gradiente
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 #### Clase 12: Inicialización, Normalización y Batch Normalization
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId3 %}
 
 #### Clase 13: Algoritmos de Optimización, SGD con Momentum, RMSProp, Adam
-Dificultad: Qué clase de chino mandarín es este?
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::hatching_chick::hatching_chick:
 {% include youtubePlayer.html id=page.youtubeId4 %}
 
 

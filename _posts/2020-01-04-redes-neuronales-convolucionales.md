@@ -11,20 +11,20 @@ youtubeId4:  C7S7wBsg2KE
 ---
 
 #### Clase 14: Introducción a Redes Convolucionales
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 
 #### Clase 15: Pooling, AlexNet, VGG
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 #### Clase 16: InceptionNet (GoogLeNet)
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId3 %}
 
 #### Clase 17: ResNet y DenseNet
-Dificultad: Tendré que repasar
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::egg::egg:
 {% include youtubePlayer.html id=page.youtubeId4 %}
 
 

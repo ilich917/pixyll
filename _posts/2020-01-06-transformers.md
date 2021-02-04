@@ -10,14 +10,14 @@ youtubeId3:  BZZNOnwtdUk
 ---
 
 #### Clase 22: Atención Neuronal
-Dificultad: Qué clase de chino mandarín es este
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::hatching_chick::hatching_chick:
 {% include youtubePlayer.html id=page.youtubeId1 %}
 
 
 #### Clase 23: Transformers
-Dificultad: Qué clase de chino mandarín es este
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::hatching_chick::hatching_chick:
 {% include youtubePlayer.html id=page.youtubeId2 %}
 
 #### Clase 24: Más acerca de Transformers (BERT, RoBerta, XLNet, GPT)
-Dificultad: Qué clase de chino mandarín es este
+Dificultad: :hatching_chick::hatching_chick::hatching_chick::hatching_chick::hatching_chick:
 {% include youtubePlayer.html id=page.youtubeId3 %}
